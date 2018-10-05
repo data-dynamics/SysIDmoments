@@ -22,4 +22,6 @@ selected by setting the value of sw_seq from 1 to 7. The default sequence (used 
 corresponds to sw_seq=1.
 
 
-Authors: Necmiye Ozay & The Du, University of Michigan
+Authors: Necmiye Ozay & Zhe Du, University of Michigan
+
+Research partly supported by DARPA grant N66001-14-1-4045.
