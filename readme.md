@@ -1,4 +1,3 @@
-%{
 This code is the implementation of experiment in paper 
 Ozay, Necmiye, Constantino Lagoa, and Mario Sznaier. "Set membership identification of 
 switched linear systems with known number of subsystems." Automatica 51 (2015): 180-191.
@@ -24,4 +23,6 @@ poles at 0.9, 0.8
 7 test cases with different switching sequences are given in Line 52-59. And they can be
 selected by setting the value of sw_seq from 1 to 7. The default sequence (used in paper)
 corresponds to sw_seq=1.
-%}
+
+
+Authors: Necmiye Ozay & The Du, University of Michigan
