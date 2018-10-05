@@ -24,4 +24,4 @@ corresponds to sw_seq=1.
 
 Authors: Necmiye Ozay & Zhe Du, University of Michigan
 
-Research partly supported by DARPA grant N66001-14-1-4045.
+Acknowledgment: Research partly supported by DARPA grant N66001-14-1-4045.
