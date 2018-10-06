@@ -14,7 +14,6 @@
 clear all;
 %close all;
 
-%addpath('C:\Documents and Settings\Necmiye\My Documents\Research\Codes\gpca\pda');
 
 addpath('../CodeGPCAPDASpectral/helper_functions')
 
