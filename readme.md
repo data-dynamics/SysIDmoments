@@ -21,6 +21,10 @@ The default hybrid system is given by
 selected by setting the value of sw_seq from 1 to 7. The default sequence (used in paper)
 corresponds to sw_seq=1.
 
+Dependencies: Make sure to download Generalized PCA with Polynomial Differentiation and Spectral Clustering
+from http://vision.jhu.edu/code/fetchcode.php?id=2 and place that directory under the main directory of
+this toolbox.
+
 
 Authors: Necmiye Ozay & Zhe Du, University of Michigan
 
