@@ -1,4 +1,8 @@
 function b = sprepmat(a,m,n)
+
+% This file is part of SOSTOOLS
+
+
 % function B = sprepmat(A,M,N)
 %
 % DESCRIPTION
